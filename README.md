@@ -1,23 +1,22 @@
-> # About me
->
-> I'm sach1 ( or sach ).  
-> I'm from Italy and I mostly dabble in Typescript and Rust; Elixir has piqued my interest though.  
-> Proudly a \*nix enthusiast and light novel connoisseur; I embrace open source and contribute when I can.  
-
+# 👋 Hello β[^1]
 ---
+Hello, people know me as sach ( pronounced sác )  
+I'm some random guy from Italy, I do stuff in Node.js, sometimes Rust and Elixir too.
 
-> # Contact Me
->
-> - Discord: sach#0001
-> - Twitter: ya_sach1
-
+# 🗃️ On-going projects
 ---
+- [ ] [isoide](https://github.com/ya-sach1/isoide); a based haste server written in Elixir, with the aid of the Phoenix framework.
+- [ ] [peek-a-boo](https://github.com/ya-sach1/peek-a-boo); a ( really bad ) card game with ghosts, made in Godot. Cool stuff.
 
-<!--START_SECTION:waka-->
->JavaScript   6 hrs 48 mins   ██████████████▓░░░░░░░░░░   58.78 %\
->TypeScript   3 hrs 16 mins   ███████░░░░░░░░░░░░░░░░░░   28.21 %\
->JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %\
->HTML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %\
->Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+# 🌸 Miscellania
 ---
-<!--END_SECTION:waka-->
+- My preferred pronouns are she / her.
+- I'm obsessed with my boo.
+- I lose motivation and get angry easily.
+
+# 🔍 Contact me
+---
+No. Don't.[^2]
+
+[^1]: The Greek beta character is not placed there randomly, up to you to get what it means.  
+[^2]: Yes, I really dislike talking
