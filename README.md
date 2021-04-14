@@ -1,4 +1,4 @@
-# 👋 Hello β[^1]
+# 👋 Hello β
 ---
 Hello, people know me as sach ( pronounced sác )  
 I'm some random guy from Italy, I do stuff in Node.js, sometimes Rust and Elixir too.
@@ -13,10 +13,8 @@ I'm some random guy from Italy, I do stuff in Node.js, sometimes Rust and Elixir
 - My preferred pronouns are she / her.
 - I'm obsessed with my boo.
 - I lose motivation and get angry easily.
+- The Greek beta character is not placed there randomly, up to you to get what it means.  
 
 # 🔍 Contact me
 ---
-No. Don't.[^2]
-
-[^1]: The Greek beta character is not placed there randomly, up to you to get what it means.  
-[^2]: Yes, I really dislike talking
+No. Don't.
