@@ -4,4 +4,4 @@ My pronouns are **she/they**, I'm a **\*nix** enthusiast, fond of **Chinese cult
 
 # Interests
 I'm a nerd, I like reading **books**, sometimes **manga** as well.  
-**Pokémon** aficionado, trying to get into **competitive Pokémon** as well, if you want to challenge me, my Pokémon showdown username is **`xinaa`**. Also, ***ROM hacking*** has piqued my interests recently, trying my hand on **Pokémon Emerald** for now, results aren't amazing but I'm having fun.
+**Pokémon** aficionado, trying to get into **competitive Pokémon** as well, if you want to challenge me, my Pokémon showdown username is **`xinaa`**.
