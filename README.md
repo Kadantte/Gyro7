@@ -6,5 +6,10 @@ My pronouns are **she/they**, I'm a **\*nix** enthusiast, fond of **Chinese cult
 I'm a nerd, I like reading **books**, sometimes **manga** as well.  
 **Pokémon** aficionado, trying to get into **competitive Pokémon** as well, if you want to challenge me, my Pokémon showdown username is **`xinaa`**.
 
-# Interesting data
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=6kn5js3ss582nn47rqugdejqv)
+# Project
+I ***love*** keeping my projects clean and my profile tidied up, this is why I split my projects into organisations.  
+  
+<a href="https://github.com/demiboy">@demiboy<a/> -> templates  
+<a href="https://github.com/demigender">@demigender<a/> -> npm packages  
+<a href="https://github.com/genderflux">@genderflux<a/> -> discord related  
+<a href="https://github.com/aroace">@aroace<a/> -> gaymes  
