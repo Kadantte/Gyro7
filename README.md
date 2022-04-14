@@ -7,3 +7,5 @@ Typescript is my favourite languages ✨; despite that, I have a vast interest, 
 
 I can speak fluently in Italian 🇮🇹 and English 🇺🇸, but I can also wrap my head around French 🇫🇷 and Spanish 🇪🇸 if needed (^人^)  
 Feel free to contact me on Twitter 🐦 at [@pinkcig_](https://twitter.com/pinkcig_), albeit there will be a little bit of a delay, as it is not my favourite platform (∩︵∩)
+
+If I haven't pushed in a long time, I'm just busy with life :)
