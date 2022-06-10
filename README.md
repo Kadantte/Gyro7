@@ -2,7 +2,7 @@
 Teen based in 🇮🇹  
 Currently a busy highschool student 👩🏻‍🎓; possibly a software engineer 👩🏻‍💻 in the near future ●‿●
 
-My interests range from [programming](https://github.com/pinkcig?tab=repositories) 🔧 to [art](https://www.pinterest.it/fayekllr/) 🎨 and [music](https://open.spotify.com/user/6kn5js3ss582nn47rqugdejqv) 🎵  
+My interests range from [programming](https://github.com/pinkcig?tab=repositories) 🔧 to [art](https://www.pinterest.it/fayekllr/) 🎨 and [music](https://www.last.fm/user/pinkcig_) 🎵  
 Typescript is my favourite languages ✨; despite that, I have a vast interest, knowledge and love ♥ for everything tech related ≧◡≦
 
 I can speak fluently in Italian 🇮🇹 and English 🇺🇸, but I can also wrap my head around French 🇫🇷 and Spanish 🇪🇸 if needed (^人^)  
