@@ -1,7 +1,7 @@
 + Hello, I'm Liam, and I'm from Italy! My main programming languages are Go, C#, C/C++. I know some other languages (as you can see in my skills section) but these are my favourites.
-+ I love manga, anime, movies and tv series.
++ I love manga, books, movies and working out.
 + If you ever want to contact me, feel free to do so;
-+ e-mail (not one of my real emails, I use this just for commercial work like this): gyroo@tuta.io
++ e-mail (not one of my real emails, I use this just for commercial work): gyroo@tuta.io
 + Matrix: [@gyro:matrix.org](https://matrix.to/#/@gyro7:matrix.org)
 
 ---
